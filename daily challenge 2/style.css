@@ -1,0 +1,22 @@
+html body{
+  position: relative;
+  text-align: center;
+  background-color: #2D6161;
+  justify-content: center; 
+}
+
+ul, ol{
+  display: inline-block;
+}
+
+div{
+  border-color: #DFC7BF;
+  border-style: groove;
+  border-width: 7px;
+  border-radius: 10px;
+  align-items:center;
+  margin: 100px;
+}
+
+
+
